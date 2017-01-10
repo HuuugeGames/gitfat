@@ -1,0 +1,3 @@
+[submodule "src/win-py-spawner"]
+	path = src/win-py-spawner
+	url = https://github.com/HuuugeGames/win-py-spawner.git
